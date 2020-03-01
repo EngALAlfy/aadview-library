@@ -1,0 +1,2 @@
+include  ':aadview'
+rootProject.name='ads_library'
